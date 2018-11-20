@@ -7,7 +7,7 @@ export default class JustinButton extends React.Component{
         return(
             <View>
                 <Button >
-                    <Text>{this.props.buttonText} thot</Text>
+                    <Text>{this.props.buttonText} yo mamma</Text>
                 </Button>
             </View>
         )
